@@ -70,7 +70,7 @@ javac --version
 git clone https://github.com/lucangelos/desafio-bancario.git
 cd desafio-bancario
 
-###⚙️ Compilando e Executando
+### ⚙️ Compilando e Executando
 
 javac Main.java
 java Main
