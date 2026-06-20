@@ -65,7 +65,7 @@ java --version
 javac --version
 
 ```
-###📥 Clonando o Repositório
+### 📥 Clonando o Repositório
 
 git clone https://github.com/lucangelos/desafio-bancario.git
 cd desafio-bancario
