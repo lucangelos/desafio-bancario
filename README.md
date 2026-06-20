@@ -50,6 +50,8 @@ Operações
 3- Transferir valor
 4- Sair
 
+```
+
 ## 🚀 Como Executar o Projeto
 
 ### 📋 Pré-requisitos
